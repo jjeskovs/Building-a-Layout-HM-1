@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     text-align: center;
+    background: #777;
 }
 
 .clearfix::after {
@@ -83,11 +84,14 @@ nav {
     height: 55px;
 }
 
-/* footer {
+#footer {
+    clear: both;
     background: #ebebeb;
+    width: 400px;
+    margin-top: 50px;
     margin-bottom: 5px;
     margin-left: 150px;
     margin-right: 150px;
     height: 100px;
     text-align: center;
-} */
+}

@@ -41,6 +41,7 @@ nav {
     height: 300px;
     margin-left: 150px; 
     padding: 30px;
+    margin-bottom: 15px;
 
 }
 #aside {
@@ -87,11 +88,9 @@ nav {
 #footer {
     clear: both;
     background: #ebebeb;
-    width: 400px;
-    margin-top: 50px;
-    margin-bottom: 5px;
+    text-align: center;
     margin-left: 150px;
     margin-right: 150px;
-    height: 100px;
-    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
 }

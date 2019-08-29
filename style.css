@@ -10,6 +10,9 @@
     display: block;
 
 }
+h2 {
+    background: #ebebeb;
+}
 
 h1, p {
     color: #777;
